@@ -1,4 +1,4 @@
-# Parser
+# Meteor Template-based Regex Parser
 
 This parser uses a template to extract data from a unstructured text, much like an inverse Handlebars template. Many people would suggest not using regular expressions to parse the web, but I think this library takes care of all those pains by using templates. Also, when you're dealing with poorly formated XHTML, regexes tend to be more robust, easier to fix, and very lean.
 
